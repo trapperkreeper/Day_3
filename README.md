@@ -5,6 +5,8 @@
 
 **bold**
 
+\*not italic
+
 ---
 `` code block``
 
