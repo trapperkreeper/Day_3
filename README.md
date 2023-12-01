@@ -2,6 +2,7 @@
 
 ## Day_3 Section 2
 *Italic text*
+
 **bold**
 
 ---
